@@ -1,0 +1,6 @@
+Escriba una función que acepte un número entero n y una cadena s como parámetros y devuelva una cadena de s repetida exactamente n veces.
+
+
+ejemplos (entrada -> salida)
+6, "yo" -> "yoyoyoyoyoyo"
+5, "Hola" -> "HolaHolaHolaHola"
